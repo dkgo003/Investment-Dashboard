@@ -1,0 +1,5 @@
+ticker,name,type,target_ratio
+JEPI,JPMorgan Equity Premium Income,2세대 커버드콜,30
+JEPQ,JPMorgan Nasdaq Equity Premium Income,2세대 커버드콜,30
+SCHD,Schwab US Dividend Equity,전통 배당 성장,20
+VYM,Vanguard High Dividend Yield,전통 배당 성장,20
