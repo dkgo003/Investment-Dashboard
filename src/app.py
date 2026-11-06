@@ -37,7 +37,7 @@ with st.sidebar:
     st.header("⚙️ 설정")
 
     # 새로고침 버튼
-    if st.button("🔄 데이터 새로고침", width='stretch'):
+    if st.button("🔄 데이터 새로새로고침", width='stretch'):
         st.cache_data.clear()
         st.rerun()
 
