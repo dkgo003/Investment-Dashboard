@@ -44,7 +44,7 @@ with st.sidebar:
     st.markdown("---")
 
     # 환율 정보
-    st.subheader("💱 환율 정보")
+    st.subheader("💱 환율 환율 정보")
     exchange_rate = data_fetcher.fetch_exchange_rate()
     st.metric("USD/KRW", f"₩{exchange_rate:,.2f}")
 
